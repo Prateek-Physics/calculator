@@ -1,0 +1,1 @@
+I am learning HTML,CSS and Javascript and this calculator above is the project for the same. I am exploring basic projects learning from them. Above is working calculator which can perform basic operations.
